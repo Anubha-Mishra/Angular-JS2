@@ -35,6 +35,18 @@
       {
         name: "Cookies",
         quantity: "15"
+      },
+      {
+        name: "Chips",
+        quantity: "5"
+      },
+      {
+        name: "Drinks",
+        quantity: "10"
+      },
+      {
+        name: "Chocolates",
+        quantity: "20"
       }
     ];
 
